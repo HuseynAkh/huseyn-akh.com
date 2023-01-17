@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.0a1fbe0f.css",
-    "main.js": "/static/js/main.90d95971.js",
+    "main.js": "/static/js/main.64796641.js",
     "static/media/DietPlanner.gif": "/static/media/DietPlanner.0922b0fce27b7195129d.gif",
     "static/media/InvestmentPortfolio.gif": "/static/media/InvestmentPortfolio.74ad3a16cf70933d417d.gif",
     "static/media/cloud.jpg": "/static/media/cloud.37d8f73e9309978eefca.jpg",
     "static/media/multisig.png": "/static/media/multisig.00c3563557075b79a457.png",
-    "static/media/website.png": "/static/media/website.3b2c18b51aef95081e57.png",
+    "static/media/website.png": "/static/media/website.588328ba2054f2220979.png",
     "static/media/messenger.png": "/static/media/messenger.7fc2aa7f1c78975318a2.png",
-    "static/media/Resume_Huseyn_Akhundov.pdf": "/static/media/Resume_Huseyn_Akhundov.3bc85d7638b98b0d3fdf.pdf",
+    "static/media/Resume_Huseyn_Akhundov.pdf": "/static/media/Resume_Huseyn_Akhundov.ee0a27cb753546880ac6.pdf",
     "index.html": "/index.html",
     "main.0a1fbe0f.css.map": "/static/css/main.0a1fbe0f.css.map",
-    "main.90d95971.js.map": "/static/js/main.90d95971.js.map"
+    "main.64796641.js.map": "/static/js/main.64796641.js.map"
   },
   "entrypoints": [
     "static/css/main.0a1fbe0f.css",
-    "static/js/main.90d95971.js"
+    "static/js/main.64796641.js"
   ]
 }
