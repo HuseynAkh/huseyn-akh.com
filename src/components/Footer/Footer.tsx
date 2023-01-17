@@ -3,7 +3,7 @@ import './Footer.scss';
 const Footer = () => (
   <footer className='footer'>
     <p>
-      Huseyn Akhundov | Updated 16.01.2023
+      Huseyn Akhundov | Updated 17.01.2023
     </p>
   </footer>
 )
