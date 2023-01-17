@@ -32,7 +32,7 @@ const projects = [
     description:
       'An elegant mobile compatible Web Portfolio',
     stack: ['TypeScript', 'React'],
-    sourceCode: 'https://huseyn-akh.com',
+    sourceCode: 'https://github.com/HuseynAkh/huseyn-akh.com',
   },
   {
     image: Messenger,
