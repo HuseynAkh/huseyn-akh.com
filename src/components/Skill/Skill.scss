@@ -1,0 +1,21 @@
+.skill {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    box-shadow: var(--shadow);
+    border: 1px solid rgb(173, 173, 173);
+    width: 260px;
+    height: 70px;
+    padding: 0px 0px 0px 5px;
+    flex: 1 0 21%;
+    flex-wrap: wrap;
+    transition: transform 0.2s linear;
+}
+
+.skill:hover {
+    transform: translateY(-3px);
+}
+
+.sname{
+    padding: 0px 0px 0px 25px;
+}

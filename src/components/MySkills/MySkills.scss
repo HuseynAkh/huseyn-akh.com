@@ -1,0 +1,19 @@
+.skillList{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.resume__link {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--clr-fg);
+}
+
+.resl {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
